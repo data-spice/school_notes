@@ -1,0 +1,6 @@
+Use the client on the previous directory 
+
+cd ..
+python3 client.py
+
+### I used Debian (Linux)
